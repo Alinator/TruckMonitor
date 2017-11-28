@@ -1,0 +1,11 @@
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Release\netcoreapp2.0\TruckStatusUpdater.deps.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Release\netcoreapp2.0\TruckStatusUpdater.runtimeconfig.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Release\netcoreapp2.0\TruckStatusUpdater.runtimeconfig.dev.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Release\netcoreapp2.0\TruckStatusUpdater.dll
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Release\netcoreapp2.0\TruckStatusUpdater.pdb
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.csprojResolveAssemblyReference.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.csproj.CoreCompileInputs.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.AssemblyInfoInputs.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.AssemblyInfo.cs
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.dll
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\obj\Release\netcoreapp2.0\TruckStatusUpdater.pdb

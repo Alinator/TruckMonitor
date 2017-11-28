@@ -1,0 +1,11 @@
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\bin\Release\netcoreapp2.0\TruckAPI.deps.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\bin\Release\netcoreapp2.0\TruckAPI.runtimeconfig.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\bin\Release\netcoreapp2.0\TruckAPI.runtimeconfig.dev.json
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\bin\Release\netcoreapp2.0\TruckAPI.dll
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\bin\Release\netcoreapp2.0\TruckAPI.pdb
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.csprojResolveAssemblyReference.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.csproj.CoreCompileInputs.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.AssemblyInfoInputs.cache
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.AssemblyInfo.cs
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.dll
+C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckAPI\obj\Release\netcoreapp2.0\TruckAPI.pdb

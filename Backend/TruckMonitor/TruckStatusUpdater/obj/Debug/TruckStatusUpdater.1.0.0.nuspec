@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TruckStatusUpdater</id>
+    <version>1.0.0</version>
+    <authors>TruckStatusUpdater</authors>
+    <owners>TruckStatusUpdater</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Tools" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Web.CodeGeneration.Design" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Design" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="2.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Debug\netcoreapp2.0\TruckStatusUpdater.runtimeconfig.json" target="lib\netcoreapp2.0\TruckStatusUpdater.runtimeconfig.json" />
+    <file src="C:\Users\ali_n\Documents\Visual Studio 2017\Projects\TruckMonitor\TruckStatusUpdater\bin\Debug\netcoreapp2.0\TruckStatusUpdater.dll" target="lib\netcoreapp2.0\TruckStatusUpdater.dll" />
+  </files>
+</package>

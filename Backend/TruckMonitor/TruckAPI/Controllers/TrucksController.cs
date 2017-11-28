@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace TruckAPI.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     public class TrucksController : Controller
     {
